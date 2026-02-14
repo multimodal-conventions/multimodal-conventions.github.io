@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains dataset and material for the [CHI 2026 paper, Gesturing Toward Abstraction: Multimodal Convention Formation in Collaborative Physical Tasks](https://multimodal-convention.github.io).
+This is the repository that contains dataset and material for the [CHI 2026 paper, Gesturing Toward Abstraction: Multimodal Convention Formation in Collaborative Physical Tasks](https://multimodal-conventions.github.io).
 
 If you find it useful for your work please cite:
 ```
